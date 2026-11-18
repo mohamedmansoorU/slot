@@ -54,9 +54,9 @@ Execute the program using runserver command.
                 <th bgcolor="yellow">Tuesday</th>
                 <td>python programing</td>
                 <td>computer architecture</td>
-                 <td colspan="2" align="center">-</td>
+                <td colspan="2" align="center">-</td>
                 <td>web application</td>
-                 <td align="center">-</td>
+                <td align="center">-</td>
                 
             </tr>
             <tr>
@@ -84,11 +84,13 @@ Execute the program using runserver command.
                 <td>mentor meet</td>
                 <td align="center">-</td>
                 <td>japanese</td>
+                <td align="center">-</td>            
             </tr>
             <tr>
                 <th bgcolor="yellow">Saturday</th>
                 <td align="center">-</td>
                 <td>mentor meet</td>
+                <td colspan="4" align="center">-</td>
                 
             </tr>
 
@@ -133,10 +135,8 @@ Execute the program using runserver command.
     </body>
 </html>
 
-
 ## OUTPUT
-![alt text](image.png)
-![alt text](image-1.png)
+![alt text](image-2.png)
 
 
 ## RESULT
